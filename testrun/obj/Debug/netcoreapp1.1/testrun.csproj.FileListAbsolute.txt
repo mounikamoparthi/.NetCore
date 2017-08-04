@@ -1,0 +1,8 @@
+C:\Users\mouni\desktop\C# Stack\.NETCore\testrun\bin\Debug\netcoreapp1.1\testrun.deps.json
+C:\Users\mouni\desktop\C# Stack\.NETCore\testrun\bin\Debug\netcoreapp1.1\testrun.runtimeconfig.json
+C:\Users\mouni\desktop\C# Stack\.NETCore\testrun\bin\Debug\netcoreapp1.1\testrun.runtimeconfig.dev.json
+C:\Users\mouni\desktop\C# Stack\.NETCore\testrun\bin\Debug\netcoreapp1.1\testrun.dll
+C:\Users\mouni\desktop\C# Stack\.NETCore\testrun\bin\Debug\netcoreapp1.1\testrun.pdb
+C:\Users\mouni\desktop\C# Stack\.NETCore\testrun\obj\Debug\netcoreapp1.1\testrun.AssemblyInfo.cs
+C:\Users\mouni\desktop\C# Stack\.NETCore\testrun\obj\Debug\netcoreapp1.1\testrun.dll
+C:\Users\mouni\desktop\C# Stack\.NETCore\testrun\obj\Debug\netcoreapp1.1\testrun.pdb

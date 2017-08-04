@@ -1,0 +1,8 @@
+C:\Users\mouni\desktop\C# Stack\.NETCore\callingcard\bin\Debug\netcoreapp1.1\callingcard.deps.json
+C:\Users\mouni\desktop\C# Stack\.NETCore\callingcard\bin\Debug\netcoreapp1.1\callingcard.runtimeconfig.json
+C:\Users\mouni\desktop\C# Stack\.NETCore\callingcard\bin\Debug\netcoreapp1.1\callingcard.runtimeconfig.dev.json
+C:\Users\mouni\desktop\C# Stack\.NETCore\callingcard\bin\Debug\netcoreapp1.1\callingcard.dll
+C:\Users\mouni\desktop\C# Stack\.NETCore\callingcard\bin\Debug\netcoreapp1.1\callingcard.pdb
+C:\Users\mouni\desktop\C# Stack\.NETCore\callingcard\obj\Debug\netcoreapp1.1\callingcard.AssemblyInfo.cs
+C:\Users\mouni\desktop\C# Stack\.NETCore\callingcard\obj\Debug\netcoreapp1.1\callingcard.dll
+C:\Users\mouni\desktop\C# Stack\.NETCore\callingcard\obj\Debug\netcoreapp1.1\callingcard.pdb
