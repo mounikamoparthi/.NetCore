@@ -1,0 +1,8 @@
+C:\Users\mouni\desktop\C# Stack\.NETCore\portfolio\bin\Debug\netcoreapp1.1\portfolio.deps.json
+C:\Users\mouni\desktop\C# Stack\.NETCore\portfolio\bin\Debug\netcoreapp1.1\portfolio.runtimeconfig.json
+C:\Users\mouni\desktop\C# Stack\.NETCore\portfolio\bin\Debug\netcoreapp1.1\portfolio.runtimeconfig.dev.json
+C:\Users\mouni\desktop\C# Stack\.NETCore\portfolio\bin\Debug\netcoreapp1.1\portfolio.dll
+C:\Users\mouni\desktop\C# Stack\.NETCore\portfolio\bin\Debug\netcoreapp1.1\portfolio.pdb
+C:\Users\mouni\desktop\C# Stack\.NETCore\portfolio\obj\Debug\netcoreapp1.1\portfolio.AssemblyInfo.cs
+C:\Users\mouni\desktop\C# Stack\.NETCore\portfolio\obj\Debug\netcoreapp1.1\portfolio.dll
+C:\Users\mouni\desktop\C# Stack\.NETCore\portfolio\obj\Debug\netcoreapp1.1\portfolio.pdb

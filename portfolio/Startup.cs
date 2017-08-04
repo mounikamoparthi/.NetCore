@@ -30,6 +30,7 @@ namespace portfolio
             }
 
            app.UseMvc();
+           app.UseStaticFiles();
         }
     }
 }
