@@ -1,0 +1,8 @@
+C:\Users\mouni\desktop\C# Stack\.NETCore\random_passcode\bin\Debug\netcoreapp1.1\random_passcode.deps.json
+C:\Users\mouni\desktop\C# Stack\.NETCore\random_passcode\bin\Debug\netcoreapp1.1\random_passcode.runtimeconfig.json
+C:\Users\mouni\desktop\C# Stack\.NETCore\random_passcode\bin\Debug\netcoreapp1.1\random_passcode.runtimeconfig.dev.json
+C:\Users\mouni\desktop\C# Stack\.NETCore\random_passcode\bin\Debug\netcoreapp1.1\random_passcode.dll
+C:\Users\mouni\desktop\C# Stack\.NETCore\random_passcode\bin\Debug\netcoreapp1.1\random_passcode.pdb
+C:\Users\mouni\desktop\C# Stack\.NETCore\random_passcode\obj\Debug\netcoreapp1.1\random_passcode.AssemblyInfo.cs
+C:\Users\mouni\desktop\C# Stack\.NETCore\random_passcode\obj\Debug\netcoreapp1.1\random_passcode.dll
+C:\Users\mouni\desktop\C# Stack\.NETCore\random_passcode\obj\Debug\netcoreapp1.1\random_passcode.pdb
