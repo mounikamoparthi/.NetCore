@@ -8,13 +8,13 @@ namespace dojosurvey.Controllers
             
             [HttpGet]
             [Route("")]
-            public IActionResult form()
+            public IActionResult Index()
             {
-                return View("index");
+                return View();
             }
             [HttpPost]
             [Route("result")]
-             public IActionResult result(string Name, string location, string language,string comment)
+             public IActionResult Result(string Name, string location, string language,string comment)
             {
                 ViewBag.Name = Name;
                 ViewBag.location = location;
@@ -22,6 +22,11 @@ namespace dojosurvey.Controllers
                 ViewBag.comment = comment;
                 return View("result");
             }
+            // [HttpGet]
+            // [Route("back")]
+            // public IActionResult back(){
+            //     return RedirectToAction("result");
+            // }
                 
     }
 }
